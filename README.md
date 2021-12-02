@@ -1,6 +1,9 @@
 # Apprecio.Finance - Measuring Inflation Decentrally
 
+## Quick setup
+To get the lastest inflation estimate using Apprecio.Finance please create a contract instance of [ChainlinkClient.sol](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/ChainlinkClient.sol) and add a request-fulfill pipeline (please review [Chainlink documentation](https://docs.chain.link/docs/architecture-request-model/)).
 
+A good example on how to get the latest inflation rate can be found in the [ClientInflationCall.sol](https://github.com/omarespejel/apprecio_decentralized_inflation/blob/main/contracts/ClientInflationAsk.sol).
 
 
 ## Inspiration
