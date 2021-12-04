@@ -4,7 +4,7 @@ V0.2 Whitepaper [here](https://mirror.xyz/espejel.eth/GeYEoRFxF-HSaZr78pjeAx-3yT
 
 ## Quick setup
 
-**Node address**: 0x141bf09f27B1d274ff18bbbbD00eAfd3828C0E0A (more info in the [Job's TOML](https://github.com/omarespejel/apprecio_decentralized_inflation/blob/main/chainlink/node_jobs/july_2021_mexico_inflation_rate.toml)).
+**Oracle address**: 0x141bf09f27B1d274ff18bbbbD00eAfd3828C0E0A (more info in the [Job's TOML](https://github.com/omarespejel/apprecio_decentralized_inflation/blob/main/chainlink/node_jobs/july_2021_mexico_inflation_rate.toml)).
 
 **externalJobID**: 8bc862a3f7734550948a824ed4307769 (more info in the [Job's TOML](https://github.com/omarespejel/apprecio_decentralized_inflation/blob/main/chainlink/node_jobs/july_2021_mexico_inflation_rate.toml)).
 
